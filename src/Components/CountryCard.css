@@ -1,0 +1,59 @@
+.country_card{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.flag_div{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px solid green; */
+    /* padding: 10px; */
+    background-color: #33c0caff;
+    border-radius: 4px;
+}
+.flag_div>img{
+    width: 90%;
+    height: 160px;
+    border-radius: 4px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.card_info_div{
+    height: 150px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column
+}
+.country_name{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.country_capital{
+    font-weight: 800;
+    color: gray;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+.country_currency{
+    font-weight: 800;
+    color: gray;
+    text-align: center;
+    margin-top: 0px;
+}
+@media screen and (min-width:320px) and (max-width:767px){
+    .flag_div{
+       padding: 0px;
+    }
+}

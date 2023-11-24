@@ -1,0 +1,25 @@
+.header_main{
+    width: 100%;
+    /* border: 2px solid black; */
+    height: 100px;
+    background-color: #33c0caff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0px auto;
+}
+.header_main > h1{
+    text-transform: uppercase;
+    
+    font-weight: bolder;
+    font-size: 44px;
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+}
+@media screen and (min-width:320px) and (max-width:767px){
+    .header_main > h1{
+        font-size: 26px;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1024px){}

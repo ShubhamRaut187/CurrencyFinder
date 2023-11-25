@@ -1,0 +1,14 @@
+.loading_main{
+    width: 80%;
+    height: 300px;
+    border-radius: 6px;
+    border: 4px dotted gray;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loading > h1{
+    color: gray;
+    text-align: center;
+}

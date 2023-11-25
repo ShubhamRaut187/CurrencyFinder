@@ -5,7 +5,7 @@ Simply enter a currency code, and 'World by Currency' unfolds a rich tapestry of
 
 # How to use ❓
 Step 1 
-Visit <a href="https://currencyfinder.vercel.app" target="blank">World By Currency<a/> 
+Visit <a href="https://currencyfinder.vercel.app" target=blank>World By Currency<a/> 
 
 Step 2
 Enter the currency code of three letters in the search box and hit the search button.

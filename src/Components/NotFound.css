@@ -1,0 +1,14 @@
+.nf_main{
+    width: 80%;
+    height: 300px;
+    border-radius: 6px;
+    border: 4px solid gray;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nf_main > h1{
+    color: gray;
+    text-align: center;
+}

@@ -4,13 +4,13 @@ Introducing 'World by Currency,' a powerful and user-friendly web application bu
 Simply enter a currency code, and 'World by Currency' unfolds a rich tapestry of information, offering a comprehensive overview of all countries associated with the entered currency. 💷
 
 # How to use ❓
-# Step 1 
+Step 1 
 Visit <a href="https://currencyfinder.vercel.app" target="blank"/> 
 
-# Step 2
+Step 2
 Enter the currency code of three letters in the search box and hit the search button.
 
-# Step 3
+Step 3
 View all the countries displayed.
 
 <img src="https://github.com/ShubhamRaut187/currencyfinder/blob/main/src/Images/Home_1.png?raw=true" alt="Home_1"/>
